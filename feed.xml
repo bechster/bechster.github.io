@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Bechster</title>
-    <link href="https://bechster.github.io/bechster/feed.xml" rel="self" />
-    <link href="https://bechster.github.io/bechster" />
+    <link href="https://bechster.github.io/feed.xml" rel="self" />
+    <link href="https://bechster.github.io" />
     <updated>2021-09-29T15:16:48+02:00</updated>
     <author>
         <name>Morten Brunbjerg Bech</name>
     </author>
-    <id>https://bechster.github.io/bechster</id>
+    <id>https://bechster.github.io</id>
 
     <entry>
         <title>Hello World!</title>
         <author>
             <name>Morten Brunbjerg Bech</name>
         </author>
-        <link href="https://bechster.github.io/bechster/hello-world.html"/>
-        <id>https://bechster.github.io/bechster/hello-world.html</id>
+        <link href="https://bechster.github.io/hello-world/"/>
+        <id>https://bechster.github.io/hello-world/</id>
 
         <updated>2021-09-29T15:16:48+02:00</updated>
             <summary>
