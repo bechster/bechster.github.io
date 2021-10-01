@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bechster.github.io/bechster/sitemap.xml
