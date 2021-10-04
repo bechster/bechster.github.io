@@ -3,12 +3,42 @@
     <title>Bechster</title>
     <link href="https://bechster.github.io/feed.xml" rel="self" />
     <link href="https://bechster.github.io" />
-    <updated>2021-09-29T15:16:48+02:00</updated>
+    <updated>2021-10-04T11:31:03+02:00</updated>
     <author>
         <name>Morten Brunbjerg Bech</name>
     </author>
     <id>https://bechster.github.io</id>
 
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Morten Brunbjerg Bech</name>
+        </author>
+        <link href="https://bechster.github.io/about/"/>
+        <id>https://bechster.github.io/about/</id>
+            <category term="About"/>
+
+        <updated>2021-10-04T11:31:03+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://bechster.github.io/media/posts/2/brian-mcgowan-I0fDR8xtApA-unsplash.jpg" alt="Astronaut" />
+                     Hi, I'm Morten I'm tightening bolts and nuts, giving layers of paint, and more, on the websites of local TV station TV MIDTVEST in DK. Oh, and I'm also a librarian. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://bechster.github.io/media/posts/2/brian-mcgowan-I0fDR8xtApA-unsplash.jpg" alt="Astronaut" />
+                
+    <h2 id="hi-im-morten">
+      Hi, I'm Morten
+    </h2>
+
+  <p>
+    I'm tightening bolts and nuts, giving layers of paint, and more, on the websites of local TV station TV MIDTVEST in DK. Oh, and I'm also a librarian.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hello World!</title>
         <author>
