@@ -3,12 +3,37 @@
     <title>Bechster</title>
     <link href="https://bechster.github.io/feed.xml" rel="self" />
     <link href="https://bechster.github.io" />
-    <updated>2021-10-04T11:31:03+02:00</updated>
+    <updated>2021-10-11T11:21:40+02:00</updated>
     <author>
         <name>Morten Brunbjerg Bech</name>
     </author>
     <id>https://bechster.github.io</id>
 
+    <entry>
+        <title>Toying around with Publii</title>
+        <author>
+            <name>Morten Brunbjerg Bech</name>
+        </author>
+        <link href="https://bechster.github.io/toying-around-with-publii/"/>
+        <id>https://bechster.github.io/toying-around-with-publii/</id>
+
+        <updated>2021-10-11T11:21:40+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://bechster.github.io/media/posts/3/shahadat-rahman-voM1Z9cGPCU-unsplash.jpg" alt="" />
+                    Quis aute iure reprehenderit in voluptate velit esse. Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Sed haec quis possit intrepidus aestimare tellus. Curabitur blandit tempus ardua ridiculus sed magna. Quae vero auctorem tractata ab fiducia dicuntur. 🐭 Quam diu etiam furor iste tuus nos&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://bechster.github.io/media/posts/3/shahadat-rahman-voM1Z9cGPCU-unsplash.jpg" alt="" />
+                <p>Quis aute iure reprehenderit in voluptate velit esse. Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Sed haec quis possit intrepidus aestimare tellus. Curabitur blandit tempus ardua ridiculus sed magna. Quae vero auctorem tractata ab fiducia dicuntur. 🐭</p>
+<p>Quam diu etiam furor iste tuus nos eludet? Idque Caesaris facere voluntate liceret: sese habere. Mercedem aut nummos unde unde extricat, amaras. Curabitur est gravida et libero vitae dictum. Unam incolunt Belgae, aliam Aquitani, tertiam. Fictum, deserunt mollit anim laborum astutumque!</p>
+<hr>
+<p>Ullamco laboris nisi ut aliquid ex ea commodi consequat. Fabio vel iudice vincam, sunt in culpa qui officia. Plura mihi bona sunt, inclinet, amari petere vellent. Tityre, tu patulae recubans sub tegmine fagi dolor. Inmensae subtilitatis, obscuris et malesuada fames. Nihil hic munitissimus habendi senatus locus, nihil horum?</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About</title>
         <author>
