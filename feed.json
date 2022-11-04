@@ -6,39 +6,41 @@
     "feed_url": "https://bechster.github.io/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Morten Brunbjerg Bech"
+        "name": "Morten Bech"
     },
     "items": [
         {
-            "id": "https://bechster.github.io/toying-around-with-publii/",
-            "url": "https://bechster.github.io/toying-around-with-publii/",
-            "title": "Toying around with Publii",
-            "summary": "Quis aute iure reprehenderit in voluptate velit esse. Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Sed haec quis possit intrepidus aestimare tellus. Curabitur blandit tempus ardua ridiculus sed magna. Quae vero auctorem tractata ab fiducia dicuntur. 🐭 Quam diu etiam furor iste tuus nos&hellip;",
-            "content_html": "<p>Quis aute iure reprehenderit in voluptate velit esse. Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Sed haec quis possit intrepidus aestimare tellus. Curabitur blandit tempus ardua ridiculus sed magna. Quae vero auctorem tractata ab fiducia dicuntur. 🐭</p>\n<p>Quam diu etiam furor iste tuus nos eludet? Idque Caesaris facere voluntate liceret: sese habere. Mercedem aut nummos unde unde extricat, amaras. Curabitur est gravida et libero vitae dictum. Unam incolunt Belgae, aliam Aquitani, tertiam. Fictum, deserunt mollit anim laborum astutumque!</p>\n<hr>\n<p>Ullamco laboris nisi ut aliquid ex ea commodi consequat. Fabio vel iudice vincam, sunt in culpa qui officia. Plura mihi bona sunt, inclinet, amari petere vellent. Tityre, tu patulae recubans sub tegmine fagi dolor. Inmensae subtilitatis, obscuris et malesuada fames. Nihil hic munitissimus habendi senatus locus, nihil horum?</p>",
-            "image": "https://bechster.github.io/media/posts/3/shahadat-rahman-voM1Z9cGPCU-unsplash.jpg",
+            "id": "https://bechster.github.io/a-new-blog/",
+            "url": "https://bechster.github.io/a-new-blog/",
+            "title": "A new blog",
+            "summary": "I am about to start a new blog. \"But you just startet this one, didn't you?\" Yes, but maybe this one is going to be temporary. I have set some goals for the project: This blog is made with Publii. It is really easy and&hellip;",
+            "content_html": "<p>I am about to start a new blog. \"But you just startet this one, didn't you?\" Yes, but maybe this one is going to be temporary. I have set some goals for the project: </p>\n<h2>I want to learn during the process</h2>\n<p>This blog is <a href=\"https://getpublii.com/\">made with Publii</a>. It is really easy and simple to set up and it works great for static site building. Please try it out, if you just want an easy to use blog system.</p>\n<p>I already own a WordPress site and I've set up a lot of WordPress solutions through the time. But it feels a little old fasioned, it is kind of too easy for me and it teaches me nothing. </p>\n<p>However, I work with Vue and Nuxt on a daily basis, but I mostly just make commits to a system that has already been deployed. I have never set up and, more importantly, deployed a Nuxt solution from the bottom. I want to learn how to do that.</p>\n<h2>I want a CMS</h2>\n<p>This blog is a static site running on Github Pages. It has very few requirements. But it is based on Publii, which is an applications that runs only on a specific computer, or computers with access to a shared drive, which means I don't have access to a backend from the web.</p>\n<p>I want a content management system I can access from the web. However, that makes it a bit more complicated, because then it involves a database.</p>\n<p>I also want to go Jamstack, which means the frontend has to be completely decoupled from the backend so that involves a JSON or a GraphQL API,</p>\n<h2>I want it to be free</h2>\n<p>This blog costs me nothing but time to run because Github Pages are free to use if your requirements aren't too heavy. </p>\n<p>So I also need to work out the devops. Where and how can I run a database for free? Where can I host a backend? How can I make the necessary build steps?</p>\n<p>So far, so good. I just startet a side project. I already know it is going to take some time. But I'll try to describe my steps along the way.</p>\n<p>This post is part 1 of the series \"A new blog\".</p>",
             "author": {
-                "name": "Morten Brunbjerg Bech"
+                "name": "Morten Bech"
             },
             "tags": [
+                   "Tutorials",
+                   "Jamstack",
+                   "Content Management",
+                   "&quot;A new blog&quot;"
             ],
-            "date_published": "2021-10-11T11:21:40+02:00",
-            "date_modified": "2021-10-11T11:21:40+02:00"
+            "date_published": "2022-11-04T18:00:11+01:00",
+            "date_modified": "2022-11-04T18:00:11+01:00"
         },
         {
             "id": "https://bechster.github.io/about/",
             "url": "https://bechster.github.io/about/",
             "title": "About",
-            "summary": "Hi, I'm Morten I'm tightening bolts and nuts, giving layers of paint, and more, on the websites of local TV station TV MIDTVEST in DK. Oh, and I'm also a librarian.",
-            "content_html": "\n    <h2 id=\"hi-im-morten\">\n      Hi, I'm Morten\n    </h2>\n\n  <p>\n    I'm tightening bolts and nuts, giving layers of paint, and more, on the websites of local TV station TV MIDTVEST in DK. Oh, and I'm also a librarian.\n  </p>",
-            "image": "https://bechster.github.io/media/posts/2/brian-mcgowan-I0fDR8xtApA-unsplash.jpg",
+            "summary": "Hi, I'm Morten 👋 I am a frontend web developer, designer, sparetime illustrator, librarian, husband, and father of two. 🤖 I work with frontend web development, UI design, and sometimes web graphics at a local TV station in the western part of Denmark, called TV&hellip;",
+            "content_html": "\n    <h2 id=\"hi-im-morten-\">\n      Hi, I'm Morten 👋\n    </h2>\n\n  <p>\n    I am a frontend web developer, designer, sparetime illustrator, librarian, husband, and father of two.<br><br>🤖 I work with frontend web development, UI design, and sometimes web graphics at a local TV station in the western part of Denmark, called TV MIDTVEST.\n  </p>\n\n  <p>\n    🎨 In my spare time, I like lifting weights, making illustrations and layouts, and I'm also a big fan of science fiction and fantasy.\n  </p>\n\n  <p>\n    🛠️ Tools of the trade: VueJS, Nuxt, Tailwind, HTML, CSS, SCSS, JavaScript, Photoshop, Illustrator, Adobe XD, etc.\n  </p>",
             "author": {
-                "name": "Morten Brunbjerg Bech"
+                "name": "Morten Bech"
             },
             "tags": [
                    "About"
             ],
             "date_published": "2021-10-04T11:31:03+02:00",
-            "date_modified": "2021-10-04T11:31:03+02:00"
+            "date_modified": "2022-11-04T16:57:12+01:00"
         },
         {
             "id": "https://bechster.github.io/hello-world/",
@@ -47,7 +49,7 @@
             "summary": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Quis aute iure reprehenderit in voluptate velit esse. Nihil hic munitissimus habendi senatus locus, nihil horum? Ab illo tempore, ab est sed immemorabili. At nos hinc posthac, sitientis piros Afros. Quam temere in vitiis, legem sancimus haerentia.",
             "content_html": "<p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Quis aute iure reprehenderit in voluptate velit esse. Nihil hic munitissimus habendi senatus locus, nihil horum? Ab illo tempore, ab est sed immemorabili. At nos hinc posthac, sitientis piros Afros. Quam temere in vitiis, legem sancimus haerentia.</p>\n<p>Idque Caesaris facere voluntate liceret: sese habere. Etiam habebis sem dicantur magna mollis euismod. Quisque ut dolor gravida, placerat libero vel, euismod. Tityre, tu patulae recubans sub tegmine fagi dolor. Curabitur est gravida et libero vitae dictum.<br>Fictum, deserunt mollit anim laborum astutumque! Curabitur blandit tempus ardua ridiculus sed magna. Morbi odio eros, volutpat ut pharetra vitae, lobortis sed nibh.</p>\n<p>Quisque placerat facilisis egestas cillum dolore. Pellentesque habitant morbi tristique senectus et netus. Cum sociis natoque penatibus et magnis dis parturient. A communi observantia non est recedendum. Ut enim ad minim veniam, quis nostrud exercitation. Non equidem invideo, miror magis posuere velit aliquet.<a href=\"test.html\"></a></p>\n<pre><code>&lt;a href=\"test.html\"&gt;Noget kode&lt;/a&gt;</code></pre>",
             "author": {
-                "name": "Morten Brunbjerg Bech"
+                "name": "Morten Bech"
             },
             "tags": [
             ],
