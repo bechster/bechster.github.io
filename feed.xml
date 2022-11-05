@@ -3,7 +3,7 @@
     <title>Bechster</title>
     <link href="https://bechster.github.io/feed.xml" rel="self" />
     <link href="https://bechster.github.io" />
-    <updated>2022-11-04T18:00:11+01:00</updated>
+    <updated>2022-11-05T10:08:36+01:00</updated>
     <author>
         <name>Morten Bech</name>
     </author>
@@ -21,15 +21,15 @@
             <category term="Content Management"/>
             <category term="&quot;A new blog&quot;"/>
 
-        <updated>2022-11-04T18:00:11+01:00</updated>
+        <updated>2022-11-05T10:08:36+01:00</updated>
             <summary>
                 <![CDATA[
-                    I am about to start a new blog. "But you just startet this one, didn't you?" Yes, but maybe this one is going to be temporary. I have set some goals for the project: This blog is made with Publii. It is really easy and&hellip;
+                    I am about to start a new blog. "But you just started this one, didn't you?" Yes, but maybe this one is going to be temporary. I have set some goals for the project: This blog is made with Publii. It is really easy and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>I am about to start a new blog. "But you just startet this one, didn't you?" Yes, but maybe this one is going to be temporary. I have set some goals for the project: </p>
+                <p>I am about to start a new blog. "But you just started this one, didn't you?" Yes, but maybe this one is going to be temporary. I have set some goals for the project: </p>
 <h2>I want to learn during the process</h2>
 <p>This blog is <a href="https://getpublii.com/">made with Publii</a>. It is really easy and simple to set up and it works great for static site building. Please try it out, if you just want an easy to use blog system.</p>
 <p>I already own a WordPress site and I've set up a lot of WordPress solutions through the time. But it feels a little old fasioned, it is kind of too easy for me and it teaches me nothing. </p>
