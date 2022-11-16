@@ -3,7 +3,7 @@
     <title>Bechster</title>
     <link href="https://bechster.github.io/feed.xml" rel="self" />
     <link href="https://bechster.github.io" />
-    <updated>2022-11-16T14:48:01+01:00</updated>
+    <updated>2022-11-16T14:55:11+01:00</updated>
     <author>
         <name>Morten Bech</name>
     </author>
@@ -21,7 +21,7 @@
             <category term="DiffusionBee"/>
             <category term="AI"/>
 
-        <updated>2022-11-16T14:48:01+01:00</updated>
+        <updated>2022-11-16T14:55:11+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bechster.github.io/media/posts/5/mastodon-stablebee-05.jpeg" alt="A robotic mastodon" />
@@ -36,7 +36,7 @@
 <p>I used the following prompt to generate the images:</p>
 <p><code>a gigantic robot ((((((((((mammoth)))))))))) in a cityscape, mammoth!!!!!!!!!!, science fiction, cyberpunk, hyper details, volumetric lighting, cinematic lights, epic cinematic, octane render, extremely high detail, post processing, 8K wallpaper, 3d, redshift style, Aerial View, style by Simon Stalenhag</code></p>
 <p>Here are some of the results. You can grab them and use them however you like. Please help yourself. </p>
-<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://bechster.github.io/media/posts/5/gallery/mastodon-stablebee-01.jpg" data-size="3072x1024"><img loading="lazy" src="https://bechster.github.io/media/posts/5/gallery/mastodon-stablebee-01-thumbnail.jpg" alt="Mammoth in an urban landscape" width="720" height="240"></a>
 <figcaption>Mammoth in an urban landscape</figcaption>
 </figure>
