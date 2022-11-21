@@ -3,12 +3,42 @@
     <title>Bechster</title>
     <link href="https://bechster.github.io/feed.xml" rel="self" />
     <link href="https://bechster.github.io" />
-    <updated>2022-11-16T15:10:27+01:00</updated>
+    <updated>2022-11-21T10:27:23+01:00</updated>
     <author>
         <name>Morten Bech</name>
     </author>
     <id>https://bechster.github.io</id>
 
+    <entry>
+        <title>Feedle: A Search Engine for RSS Feeds</title>
+        <author>
+            <name>Morten Bech</name>
+        </author>
+        <link href="https://bechster.github.io/feedle-a-search-engine-for-rss-feeds/"/>
+        <id>https://bechster.github.io/feedle-a-search-engine-for-rss-feeds/</id>
+            <category term="Search Engines"/>
+            <category term="Search"/>
+            <category term="RSS"/>
+            <category term="Feeds"/>
+
+        <updated>2022-11-21T10:26:46+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://bechster.github.io/media/posts/6/rss-sunrise-federico-respini.jpg" alt="An RSS icon in a sunrise behind a cityscape" />
+                    RSS Revisited: Back in the day when RSS was the shizzle-bizzle you used to look for the little orange icon with the dot and the three arcs, when you wanted to subscribe to your favorite blogs. Since then, big corp social media kind of hijacked&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://bechster.github.io/media/posts/6/rss-sunrise-federico-respini.jpg" alt="An RSS icon in a sunrise behind a cityscape" />
+                <p><strong>RSS Revisited:</strong> Back in the day when RSS was the shizzle-bizzle you used to look for the little orange icon with the dot and the three arcs, when you wanted to subscribe to your favorite blogs. Since then, big corp social media kind of hijacked the feed concept because like RSS, everything came flowing in your stream, although in an annoyingly arbitrary way due to algorithms. Gone was the timeline.</p>
+<p>Today, some big social media companies seem to be struggling, though, and thus the concept of RSS may yet again rise and spread its wings. So while the orange RSS icons are mostly gone, how do you find relevant RSS feeds today?</p>
+<h2>Feedle to the rescue</h2>
+<p>Feedle is a search engine for blogs and podcasts. Not only does it let you find and follow relevant RSS feeds, it also lets you subscribe to search results which led you there. Nice, right?</p>
+<p><a href="https://feedle.world/">Go try it out at feedle.world</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Header Images for Mastodon with Stable Diffusion</title>
         <author>
@@ -21,7 +51,7 @@
             <category term="DiffusionBee"/>
             <category term="AI"/>
 
-        <updated>2022-11-16T15:10:27+01:00</updated>
+        <updated>2022-11-21T10:27:23+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bechster.github.io/media/posts/5/mastodon-stablebee-05.jpeg" alt="A robotic mastodon" />

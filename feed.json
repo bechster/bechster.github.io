@@ -11,6 +11,25 @@
     },
     "items": [
         {
+            "id": "https://bechster.github.io/feedle-a-search-engine-for-rss-feeds/",
+            "url": "https://bechster.github.io/feedle-a-search-engine-for-rss-feeds/",
+            "title": "Feedle: A Search Engine for RSS Feeds",
+            "summary": "RSS Revisited: Back in the day when RSS was the shizzle-bizzle you used to look for the little orange icon with the dot and the three arcs, when you wanted to subscribe to your favorite blogs. Since then, big corp social media kind of hijacked&hellip;",
+            "content_html": "<p><strong>RSS Revisited:</strong> Back in the day when RSS was the shizzle-bizzle you used to look for the little orange icon with the dot and the three arcs, when you wanted to subscribe to your favorite blogs. Since then, big corp social media kind of hijacked the feed concept because like RSS, everything came flowing in your stream, although in an annoyingly arbitrary way due to algorithms. Gone was the timeline.</p>\n<p>Today, some big social media companies seem to be struggling, though, and thus the concept of RSS may yet again rise and spread its wings. So while the orange RSS icons are mostly gone, how do you find relevant RSS feeds today?</p>\n<h2>Feedle to the rescue</h2>\n<p>Feedle is a search engine for blogs and podcasts. Not only does it let you find and follow relevant RSS feeds, it also lets you subscribe to search results which led you there. Nice, right?</p>\n<p><a href=\"https://feedle.world/\">Go try it out at feedle.world</a></p>",
+            "image": "https://bechster.github.io/media/posts/6/rss-sunrise-federico-respini.jpg",
+            "author": {
+                "name": "Morten Bech"
+            },
+            "tags": [
+                   "Search Engines",
+                   "Search",
+                   "RSS",
+                   "Feeds"
+            ],
+            "date_published": "2022-11-20T01:16:07+01:00",
+            "date_modified": "2022-11-21T10:26:46+01:00"
+        },
+        {
             "id": "https://bechster.github.io/header-images-for-mastodon-with-stable-diffusion/",
             "url": "https://bechster.github.io/header-images-for-mastodon-with-stable-diffusion/",
             "title": "Header Images for Mastodon with Stable Diffusion",
@@ -27,7 +46,7 @@
                    "AI"
             ],
             "date_published": "2022-11-16T14:48:01+01:00",
-            "date_modified": "2022-11-16T15:10:27+01:00"
+            "date_modified": "2022-11-21T10:27:23+01:00"
         },
         {
             "id": "https://bechster.github.io/a-new-blog/",
