@@ -3,12 +3,39 @@
     <title>Bechster</title>
     <link href="https://bechster.github.io/feed.xml" rel="self" />
     <link href="https://bechster.github.io" />
-    <updated>2022-11-21T10:27:23+01:00</updated>
+    <updated>2022-12-21T13:53:33+01:00</updated>
     <author>
         <name>Morten Bech</name>
     </author>
     <id>https://bechster.github.io</id>
 
+    <entry>
+        <title>App Launcher: Replacing Spotlight with Raycast</title>
+        <author>
+            <name>Morten Bech</name>
+        </author>
+        <link href="https://bechster.github.io/app-launcher-replacing-spotlight-with-raycast/"/>
+        <id>https://bechster.github.io/app-launcher-replacing-spotlight-with-raycast/</id>
+            <category term="macOS"/>
+            <category term="Spotlight"/>
+            <category term="Search"/>
+            <category term="Raycast"/>
+            <category term="App Launchers"/>
+
+        <updated>2022-12-21T13:53:33+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://bechster.github.io/media/posts/7/rocket-stablebee.jpg" alt="Rocket launch" />
+                    I used to use Spotlight Search in macOS as an app launcher. Unfortunately, it broke after upgrading to macOS 13.1. For some reason it is suddenly unable to find preinstalled apps as well as system apps, like System Settings, Text Edit, Safari, Mail, Calendar, Messages,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://bechster.github.io/media/posts/7/rocket-stablebee.jpg" alt="Rocket launch" />
+                <p>I used to use Spotlight Search in macOS as an app launcher. Unfortunately, it broke after upgrading to macOS 13.1. For some reason it is suddenly unable to find preinstalled apps as well as system apps, like System Settings, Text Edit, Safari, Mail, Calendar, Messages, Facetime, Font Book etc. Oddly enough it is still able to find Pages, Numbers, and Keynote, as well as any user installed app. <br><br>I have tried reindexing Spotlight, both via the System setting UI and with the terminal command <code>sudo mdutil -E /</code>. That didn't seem to fix the problem. I submitted a bug to Apple and if you come across this problem, you should too. <a href="https://feedbackassistant.apple.com/">You can submit feedback to Apple here</a><br><br>Long story short. Until I find a proper solution for my buggy Spotlight, I have switched to Raycast. Raycast is an app launcher with a lot of productivity features and extendability baked in. It is actually very nice. So far, it has even completely replaced my window manager, Rectangle, which I have otherwise been very happy about. Maybe I'm going to let Raycast replace Spotlight for good?<br><br><a href="https://www.raycast.com/">You can find Raycast here</a><br><br>If you have any ideas about how to fix a broken Spotlight, I'll be happy to hear about it.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Feedle: A Search Engine for RSS Feeds</title>
         <author>

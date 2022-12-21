@@ -11,6 +11,26 @@
     },
     "items": [
         {
+            "id": "https://bechster.github.io/app-launcher-replacing-spotlight-with-raycast/",
+            "url": "https://bechster.github.io/app-launcher-replacing-spotlight-with-raycast/",
+            "title": "App Launcher: Replacing Spotlight with Raycast",
+            "summary": "I used to use Spotlight Search in macOS as an app launcher. Unfortunately, it broke after upgrading to macOS 13.1. For some reason it is suddenly unable to find preinstalled apps as well as system apps, like System Settings, Text Edit, Safari, Mail, Calendar, Messages,&hellip;",
+            "content_html": "<p>I used to use Spotlight Search in macOS as an app launcher. Unfortunately, it broke after upgrading to macOS 13.1. For some reason it is suddenly unable to find preinstalled apps as well as system apps, like System Settings, Text Edit, Safari, Mail, Calendar, Messages, Facetime, Font Book etc. Oddly enough it is still able to find Pages, Numbers, and Keynote, as well as any user installed app. <br><br>I have tried reindexing Spotlight, both via the System setting UI and with the terminal command <code>sudo mdutil -E /</code>. That didn't seem to fix the problem. I submitted a bug to Apple and if you come across this problem, you should too. <a href=\"https://feedbackassistant.apple.com/\">You can submit feedback to Apple here</a><br><br>Long story short. Until I find a proper solution for my buggy Spotlight, I have switched to Raycast. Raycast is an app launcher with a lot of productivity features and extendability baked in. It is actually very nice. So far, it has even completely replaced my window manager, Rectangle, which I have otherwise been very happy about. Maybe I'm going to let Raycast replace Spotlight for good?<br><br><a href=\"https://www.raycast.com/\">You can find Raycast here</a><br><br>If you have any ideas about how to fix a broken Spotlight, I'll be happy to hear about it.</p>",
+            "image": "https://bechster.github.io/media/posts/7/rocket-stablebee.jpg",
+            "author": {
+                "name": "Morten Bech"
+            },
+            "tags": [
+                   "macOS",
+                   "Spotlight",
+                   "Search",
+                   "Raycast",
+                   "App Launchers"
+            ],
+            "date_published": "2022-12-21T13:53:02+01:00",
+            "date_modified": "2022-12-21T13:53:33+01:00"
+        },
+        {
             "id": "https://bechster.github.io/feedle-a-search-engine-for-rss-feeds/",
             "url": "https://bechster.github.io/feedle-a-search-engine-for-rss-feeds/",
             "title": "Feedle: A Search Engine for RSS Feeds",
