@@ -21,6 +21,14 @@
 </image:image>
 </url>
 <url>
+<loc>https://bechster.github.io/decentralized-and-secure-messaging/</loc>
+<lastmod>2023-01-18T17:29:45+01:00</lastmod>
+<image:image>
+<image:loc>https://bechster.github.io/media/posts/8/female-manga-communicating-robots.jpg</image:loc>
+<image:title><![CDATA[Two female robots communicating]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://bechster.github.io/feedle-a-search-engine-for-rss-feeds/</loc>
 <lastmod>2022-11-21T10:26:46+01:00</lastmod>
 <image:image>
@@ -75,5 +83,8 @@
 <url>
 <loc>https://bechster.github.io/hello-world/</loc>
 <lastmod>2021-09-29T15:16:48+02:00</lastmod>
+</url>
+<url>
+<loc>https://bechster.github.io/page/2/</loc>
 </url>
 </urlset>

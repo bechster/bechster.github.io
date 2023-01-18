@@ -11,6 +11,27 @@
     },
     "items": [
         {
+            "id": "https://bechster.github.io/decentralized-and-secure-messaging/",
+            "url": "https://bechster.github.io/decentralized-and-secure-messaging/",
+            "title": "Decentralized and Secure Messaging",
+            "summary": "Of all my messaging apps, and for various reasons I have quite a few installed on my devices, Element is my new favourite. Element is a free and open source instant messaging client based on the Matrix protocol. It supports end-to-end encryption, groups and channels&hellip;",
+            "content_html": "<p>Of all my messaging apps, and for various reasons I have quite a few installed on my devices, Element is my new favourite.</p>\n<p>Element is a free and open source instant messaging client based on the Matrix protocol. It supports end-to-end encryption, groups and channels and is available as a web app, desktop- and mobile apps. </p>\n<p>It has a nice, clean UI and I feel quite confident the encryption and the decentralized architecture of the Matrix network keeps my conversations private and out of reach from BigCorp™ algorithms.</p>\n<p>The biggest hurdle, though, is getting all my contacts, who neither understand the advantages of encryption and decentralization, nor care about privacy and algorithms, to make the move from Facebook Messenger 🤔</p>\n<p>The common perception seems to be that if it solves your problem and everbody's there, then why should you move? Sadly, the power of habit is hard to break.</p>\n<ul>\n<li><a href=\"https://element.io/\">Go get Element.io</a></li>\n<li><a href=\"https://matrix.org/\">More about the Matrix protocol</a></li>\n</ul>",
+            "image": "https://bechster.github.io/media/posts/8/female-manga-communicating-robots.jpg",
+            "author": {
+                "name": "Morten Bech"
+            },
+            "tags": [
+                   "Privacy",
+                   "Instant Messaging",
+                   "Indie Web",
+                   "Encryption",
+                   "Decentralization",
+                   "Algorithms"
+            ],
+            "date_published": "2023-01-18T17:29:45+01:00",
+            "date_modified": "2023-01-18T17:29:45+01:00"
+        },
+        {
             "id": "https://bechster.github.io/app-launcher-replacing-spotlight-with-raycast/",
             "url": "https://bechster.github.io/app-launcher-replacing-spotlight-with-raycast/",
             "title": "App Launcher: Replacing Spotlight with Raycast",
