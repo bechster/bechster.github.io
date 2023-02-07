@@ -11,6 +11,25 @@
     },
     "items": [
         {
+            "id": "https://bechster.github.io/how-to-remove-the-domain-name-from-a-url-with-javascript/",
+            "url": "https://bechster.github.io/how-to-remove-the-domain-name-from-a-url-with-javascript/",
+            "title": "How to Remove the Domain Name from a URL with JavaScript",
+            "summary": "I needed to remove the domain name from a URL for use in a link, as the only part of the URL I needed was the path. I knew, I had to use a regular expression, but regex isn't exactly my favourite discipline. As ever&hellip;",
+            "content_html": "<p>I needed to remove the domain name from a URL for use in a link, as the only part of the URL I needed was the path. I knew, I had to use a regular expression, but regex isn't exactly my favourite discipline. As ever so often, <a href=\"https://stackoverflow.com/a/6945443/1931779\">I found the answer on StackOverflow</a>.</p>\n<blockquote>\n<p>For any arbitrary URL, assuming that the variable <code>url</code> contains your URL, you can do:</p>\n<pre class=\"default s-code-block\"><code class=\"hljs language-javascript\">url = url.<span class=\"hljs-title function_\">replace</span>(<span class=\"hljs-regexp\">/^.*\\/\\/[^\\/]+/</span>, <span class=\"hljs-string\">''</span>)</code></pre>\n</blockquote>",
+            "image": "https://bechster.github.io/media/posts/9/chain-links.jpg",
+            "author": {
+                "name": "Morten Bech"
+            },
+            "tags": [
+                   "Web Development",
+                   "Regular Expressions",
+                   "JavaScript",
+                   "Code"
+            ],
+            "date_published": "2023-02-07T10:14:34+01:00",
+            "date_modified": "2023-02-07T10:14:34+01:00"
+        },
+        {
             "id": "https://bechster.github.io/decentralized-and-secure-messaging/",
             "url": "https://bechster.github.io/decentralized-and-secure-messaging/",
             "title": "Decentralized and Secure Messaging",
