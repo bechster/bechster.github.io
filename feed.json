@@ -11,6 +11,25 @@
     },
     "items": [
         {
+            "id": "https://bechster.github.io/carousels-swipers-sliders-and-usability/",
+            "url": "https://bechster.github.io/carousels-swipers-sliders-and-usability/",
+            "title": "Carousels, Swipers, Sliders, and Usability",
+            "summary": "What’s the difference between a carousel, a swiper and a slider? The terms are used interchangeably, but I would argue, there’s a semantic difference. A definition: Carousels are circular. They start over once you reach the last item. Swipers are linear. You can swipe back&hellip;",
+            "content_html": "<p>What’s the difference between a carousel, a swiper and a slider? The terms are used interchangeably, but I would argue, there’s a semantic difference. A definition:</p>\n<p><strong>Carousels</strong> are circular. They start over once you reach the last item.</p>\n<p><strong>Swipers</strong> are linear. You can swipe back and forth, but once you reach the last item, you can’t swipe any further.</p>\n<p><strong>Sliders</strong> are input elements (e.g. volume controls), and thus entirely different UI components.</p>\n<h2>Use Carousels/Swipers Sparingly</h2>\n<p>However, carousels/swipers in UI design are mostly internal shut up candy. They enable content managers to satisfy stakeholders by telling them \"your content is located on position 6 in the carousel”.</p>\n<p>In reality, research, including my own, suggests users rarely engage with content hidden behind the swipe. Instead, consider replacing the carousel with a static element, maybe including a queue, that updates the content either randomly or within a given time frame.</p>\n<p>Nielsen Norman Group wrote an article on carousel usability back in 2013:<br><a href=\"https://www.nngroup.com/articles/designing-effective-carousels/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"status-link unhandled-link\" title=\"https://www.nngroup.com/articles/designing-effective-carousels/\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nngroup.com/articles/designing</span><span class=\"invisible\">-effective-carousels/</span></a></p>\n<p>Although that’s an old one, results seem to apply on mobile devices as well: <br><a href=\"https://www.nngroup.com/articles/mobile-carousels/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"status-link unhandled-link\" title=\"https://www.nngroup.com/articles/mobile-carousels/\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nngroup.com/articles/mobile-ca</span><span class=\"invisible\">rousels/</span></a></p>",
+            "image": "https://bechster.github.io/media/posts/10/carousel.jpg",
+            "author": {
+                "name": "Morten Bech"
+            },
+            "tags": [
+                   "Web Design",
+                   "Usability",
+                   "UX",
+                   "UI"
+            ],
+            "date_published": "2023-02-24T10:53:28+01:00",
+            "date_modified": "2023-02-24T10:53:28+01:00"
+        },
+        {
             "id": "https://bechster.github.io/how-to-remove-the-domain-name-from-a-url-with-javascript/",
             "url": "https://bechster.github.io/how-to-remove-the-domain-name-from-a-url-with-javascript/",
             "title": "How to Remove the Domain Name from a URL with JavaScript",
